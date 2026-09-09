@@ -17,4 +17,3 @@ jobs:
 
       - name: Deploy Application
         run: docker compose up -d --build
-
